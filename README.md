@@ -4,9 +4,13 @@ This project examines the E-Commerce Furniture Dataset 2024, a dataset comprisin
 It includes key details like:
 
 -productTitle
+
 -originalPrice
+
 -price
+
 -sold
+
 -tagText
 
 The goal is to understand online furniture sales patterns and build a simple ML model to predict the number of units sold.
