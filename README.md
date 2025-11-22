@@ -75,8 +75,11 @@ Random Forest generally performed better.
 # Dataset Summary
 
 -2,000 rows
+
 -Scraped ethically from AliExpress
+
 -Contains product pricing, sales count, and text data
+
 -Useful for market trend analysis and sales prediction
 
 
