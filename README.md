@@ -21,13 +21,17 @@ The goal is to understand online furniture sales patterns and build a simple ML 
 Predict how many units of a furniture item will be sold based on its:
 
 -title
+
 -pricing
+
 -discount
+
 -shipping tag
+
 -TF-IDF (for text features) 
 
 
-#Main Steps
+# Main Steps
 
 1. Data Cleaning
 
@@ -76,5 +80,6 @@ Random Forest generally performed better.
 -Useful for market trend analysis and sales prediction
 
 
-#License
+# License
+
 MIT License
